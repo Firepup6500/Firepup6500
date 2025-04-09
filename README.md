@@ -24,3 +24,6 @@ Oh yeah, most of my projects now live on https://git.h.hackclub.app/Firepup650 i
 
 ### https://github.com/anuraghazra/github-readme-stats
 
+![](https://github-readme-stats.firepup650.com/api?username=Firepup6500&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+
+![](https://github-readme-stats.firepup650.com/api/wakatime?username=U06JLP2R8JV&api_domain=waka.hackclub.com&theme=chartreuse-dark&custom_title=Hakatime+Stats&layout=compact&cache_seconds=600)
